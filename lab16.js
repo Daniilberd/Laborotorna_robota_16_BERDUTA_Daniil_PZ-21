@@ -1,5 +1,5 @@
 
-let myName = "Данііл";
+let myName = "Данііл Бердута";
 const myAge = 17;
 let isStudent = true;
 
@@ -16,4 +16,5 @@ let hobbies = ["малювання", "читання", "програмуванн
 
 console.log(person);
 console.log(hobbies);
+
 
